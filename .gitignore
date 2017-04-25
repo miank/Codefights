@@ -49,3 +49,6 @@ Temporary Items
 *.ipch
 *.filters
 *.db
+*.tlog
+*.suo
+*.log
